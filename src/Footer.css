@@ -1,7 +1,4 @@
-.Footer-App-Row{
-    display: flex;
-    justify-content: space-between;
-    background-color: orange;
+.App-Footer-Row{
+    background-color: silver;
     padding: 10px;
-    align-content: center;
 }
